@@ -1,6 +1,6 @@
 # Stable Diffusion on ADNI Dataset
 ## Author
-**Jamie Westerhout, S4745193**
+**Jamie Westerhout**
 ## Description
 This is an attempt at an implementation of latent diffusion model based on the stable diffusion architecture to generate new MRI brain scans. The model was trained on the ADNI dataset that contains a total 30520 brain MRI scans in which there are two types of scans AD (Alzheimer’s Disease) labeled as 0 in the results and NC (Normal Control) labeled as 1 in the results. The model is used to generate new MRIs where you can chose if you want a AD type image or an NC type image generated.
 
